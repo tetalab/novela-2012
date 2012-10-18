@@ -21,7 +21,7 @@ Il y aurra les message d'erreur suivant :
 
 Pas de souci c'est normal....
 
-1. retirer l'attiny
+ 6. retirer l'attiny
 
 et recommencer a partir du point 4 !!!
 
