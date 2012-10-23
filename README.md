@@ -4,7 +4,7 @@ Pour la programmation des attiny : [http://code.google.com/p/arduino-tiny/](http
 
 Il faut créer un répertoire hardware dans les sketchbook et dezipper le bordel dedant (cf read me)
 
-N'hesitez pas a prendre vos arduino, j'ai laissé mon programmateur dans le bac des composants
+Le schema pour la programmation est dispo ici ==> http://hlt.media.mit.edu/?p=1229
 
 La marche a suivre est la suivante :
 
@@ -21,9 +21,7 @@ Il y aurra les message d'erreur suivant :
 
 Pas de souci c'est normal....
 
- 6. retirer l'attiny
-
-et recommencer a partir du point 4 !!!
+Enfin retirer l'attiny et recommencer a partir du point 4 !!!
 
 En cas de problème, n’hésitez pas a faire un hard reset de l'arduino (unplug / plug usb)
 

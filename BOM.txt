@@ -1,0 +1,21 @@
+Mouser  http://fr.mouser.com/       
+ref     description     qte prix    remarque
+291-100-RC    Resistance 1/4 W 100 ohm  1000  0,009 9 Pour led IR
+649-67996-406HLF  Connecteur 6 points   430 0,09  38,7  Connecteur ISP
+611-OS102011MA1QS1  Interupteur miniature   500 0,219 109,5 
+291-27-RC   Resitance 1/4 W 27 ohms   1500  0,009 13,5  Pour leds 10 mm Jaune
+604-WP7113F3BT    LED IR        500 0,078 39  Led TX
+859-LTR-209   Phototransistor     500 0,175 87,5  RX
+291-10K-RC    Resistance 1/4 W 10 Kohm  1000  0,009 9 
+571-1-390261-2    Support CI DIL8     430 0,138 59,34 
+556-ATTINY85-20PU ATTINY 85     430 0,637 273,91  
+12BH003-GR    Support batterie 20 mm    500 0,192 96  
+291-0-RC    Resistance 0 ohm    1000  0,01  10  Pour leds 10 mm Bleu
+          
+Ledz  http://ledz.com/        
+105LB7D LEDS BLEU 10 mm         500 0,105 52,5  
+105MY8D Leds jaunes 10 mm       500 0,099 49,5  
+                    Total 117,1… a cause de la faible quantité…
+          
+Pille boutons http://www.pilesbouton.com/       
+Pile bouton lithium CR2032        500 0,2 100 
